@@ -1,3 +1,3 @@
 # demo-1
-my first repository
+my first repository.
 Author - Daksh Gondaliya
